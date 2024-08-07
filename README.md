@@ -1,6 +1,6 @@
 # Button-LED
 
-This project uses PlatformIO as it's ecosystem.
+This project uses PlatformIO as it's ecosystem. Depending on the state of the LED when the button LED ligit is turned on or off.
 
 ## Pins and corresponding segments
 Button = 2
