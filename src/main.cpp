@@ -14,15 +14,18 @@ void setup() {
 }
 
 void loop() {
+  // Turns on/off LED
   if (digitalRead(BUTTON) == HIGH) (on) ? turnOff() : turnOn();
   delay(500);
 }
 
+// Turns on LED
 void turnOn(){
   digitalWrite(LED, HIGH);
   on = true;
 }
 
+// Turns off LED
 void turnOff(){
   digitalWrite(LED, LOW);
   on = false;

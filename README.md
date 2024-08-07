@@ -16,7 +16,7 @@ Jumper wires(6)
 
 ## Design
 
-See button-LED.png for circuit design.
+See button-LED_circuit.png for circuit design.
 
 ## Physical appearance
 
